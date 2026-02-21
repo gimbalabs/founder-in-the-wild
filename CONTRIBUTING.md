@@ -1,23 +1,14 @@
-## How to contribute
+# Contributing
 
-This playbook is fueled by real-world experiences.
+If you've been there — somewhere outside your comfort zone, representing something you built, with the odds not exactly in your favor — you belong here.
 
-You can contribute if:
-- You have represented a startup or project at in-person events
-- You have traveled on a limited budget
-- You are willing to share what went wrong
+## How to send a dispatch
 
-Ways to contribute:
-- Adding a story in `/stories`
-- Improving an existing chapter
-- Fixing language or clarity
+Read `dispatches/guide.md` first. Then write your dispatch — your city, your situation, your voice. Add photos, links, numbers, whatever makes it honest and useful.
 
-We are not looking for success stories.  
+Drop your file in `/dispatches` and open a pull request. Name it descriptively: `2025-buenos-aires-sebastian-pabon.md`.
+
+## What we're looking for
+
+We are not looking for success stories.
 We are looking for honest learning.
-
-
-## Repository Diagram
-
-A quick visual guide to the repository layout to help contributors find where to add content.
-
-![Repository Structure](./assets/images/founder-in-the-wild-folder-structure.png)

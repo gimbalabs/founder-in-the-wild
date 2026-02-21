@@ -1,73 +1,27 @@
 # Founder in the Wild
 
-**Founder in the Wild** is a collaborative, open-source playbook for startup founders
-whose companies are native to the internet, but who inevitably have to step into the
-physical world to survive and grow.
+Nobody asked me to go.
 
-This playbook is written from the perspective of a founder:
-- traveling across countries
-- representing a startup at live events
-- with extremely limited financial resources
-- doing whatever is necessary to increase the odds of survival
+I went anyway — to conferences in cities I'd never been to, to rooms full of people who hadn't heard of what I was building, with a budget that made no sense for what I was trying to do.
 
-This is not an events guide.
-This is not a marketing handbook.
-And it is definitely not written from a position of comfort.
+I was there because my startup needed me to be there. Not a marketing team. Not a spokesperson. Me.
 
-## Why this exists
+Some of it worked. A lot of it didn't. All of it taught me something.
 
-Virtual-first startups eventually have to show up in the real world:
-conferences, meetups, workshops, community gatherings.
-
-If they want to prosper, or simply survive, they need to do this **earlier rather than later**.
-
-But most advice assumes:
-- large budgets
-- dedicated teams
-- professional speakers
-- paid sponsorships
-
-This playbook assumes none of that.
-
-It focuses on:
-- making the most out of live events with almost no budget
-- maximizing human connection over visibility
-- learning from what goes wrong, not just what goes right
-
-## Who this is for
-
-- Founders and co-founders of early-stage startups
-- Builders representing their projects in live events
-- Entrepeneurs traveling on tight budgets
-- Teams whose “natural environment” is still mostly virtual
-
-## How this playbook is structured
-
-The playbook is organized around the founder’s journey:
-
-- **Before the event** – deciding whether to go and how to prepare
-- **During the event** – navigating people, rooms, energy, and attention
-- **After the event** – follow-ups, fatigue, and long-term value
-- **Budget realities** – trade-offs nobody likes to talk about
-- **Stories** – real experiences from founders in the wild
-
-## This is a collaborative project
-
-This playbook is intentionally incomplete.
-
-The goal is not to capture *one* experience,
-but to aggregate many lived experiences from founders in similar situations.
-
-If you have:
-- represented a startup in live events
-- traveled with limited resources
-- learned lessons the hard way
-
-You are invited to contribute.
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+This is what I wish had existed before I booked the flight.
 
 ---
 
-> *Founder in the Wild* is not about doing things perfectly.
-> It’s about showing up, learning fast, and surviving long enough to matter.
+## What this is
+
+A place for founders who've been somewhere, figured something out, and want the next founder to have a slightly better shot.
+
+A living archive of hard-won knowledge, founder to founder. We call them dispatches.
+
+## What's a dispatch
+
+A dispatch is a firsthand account from a founder who's been somewhere. Not a travel blog post. Not a success story. A specific situation — getting from the airport without paying $60 for a taxi you can't afford to not care about, finding accommodation last minute, navigating an event alone — written for the next founder about to face the same thing. Practical, honest, earned.
+
+## Contribute your dispatch
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
