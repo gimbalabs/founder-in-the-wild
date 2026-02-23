@@ -4,7 +4,7 @@ If you've been there — somewhere outside your comfort zone, representing somet
 
 ## How to send a dispatch
 
-Read `dispatches/guide.md` first. Then write your dispatch — your city, your situation, your voice. Add photos, links, numbers, whatever makes it honest and useful.
+Read [dispatches/guide.md](dispatches/guide.md) first. Then write your dispatch — your city, your situation, your voice. Add photos, links, numbers, whatever makes it honest and useful.
 
 Drop your file in `/dispatches` and open a pull request. Name it descriptively: `2025-buenos-aires-sebastian-pabon.md`.
 
