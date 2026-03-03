@@ -3,6 +3,7 @@ city:
 date: YYYY-MM-DD
 event:
 author:
+category:
 ---
 
 # [City, Year] — [One-line description of what this dispatch covers]

@@ -18,6 +18,17 @@ Every dispatch has three sections. What you put inside them is yours.
 
 Use the sections as anchors, not cages. Write a sentence or three paragraphs. Use a list if it's clearer. Include numbers if they help, a photo if it adds something, a mistake if it's the most honest part.
 
+## Categories
+
+Dispatches aren't tagged arbitrarily. A category points to a pattern — a situation that keeps showing up across cities, events, and founders. When enough dispatches share the same terrain, a category earns its name.
+
+Pick the one that fits best. If your dispatch doesn't fit any of them, leave it blank and note it in the pull request. New categories grow from contributions, not from a committee.
+
+| Category | What it covers |
+|---|---|
+| `savings` | Getting somewhere, staying somewhere, eating somewhere — without burning money you don't have. Transport hacks, accommodation finds, budget calls that actually worked. |
+| `event-planning` | Navigating the event itself. Registration, scheduling, who to talk to, what to skip, how to make the most of the time you're there. |
+
 ## Format
 
 Write in Markdown. Start from the template in [`dispatches/TEMPLATE.md`](dispatches/TEMPLATE.md).
