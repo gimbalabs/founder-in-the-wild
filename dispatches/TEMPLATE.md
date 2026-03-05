@@ -10,8 +10,8 @@ category:
 
 <!--
   Before you start:
-  Rename this file: city-event.md
-  Example: buenos-aires-builderfest.md
+  Rename this file: city-event-category.md
+  Example: buenos-aires-builderfest-savings.md
 
   Use the three sections below as anchors, not cages.
   Write a sentence or a few paragraphs. Use a list if it's clearer.

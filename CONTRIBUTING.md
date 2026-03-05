@@ -38,8 +38,26 @@ Length: as long as it needs to be, no longer.
 ## Naming
 
 Name your file:
+`city-event-category.md` — e.g. `buenos-aires-builderfest-savings.md`
 
-`city-event.md` — e.g. `buenos-aires-builderfest.md`
+## Images
+
+Just if it's needed to clarify a point, and provide to the next founder better context.
+
+Section recommended to add images in the dispatch: ***What to tell the next founder***
+
+In the `images` folder, create your own folder to host your images. 
+
+Name your folder:
+`city-event` - e.g.
+`buenos-aires-builderfest`
+
+Name your images:
+`city-event-identifier` - e.g.
+`buenos-aires-builderfest-image-1`
+
+To add images to your dispatch, use the .md syntax:
+![Alt text for image](images/your-foldername/your-image-filename.png)
 
 ## How to submit
 

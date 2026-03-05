@@ -10,7 +10,7 @@ category: savings
 
 ## Where you were, and why
 
-Buenos Aires, Cardano Summit. I wanted to showcase my startup to the Cardano community and outsiders.
+[Buenos Aires, Cardano Summit](https://techsummit.lat/#). I wanted to showcase my startup to the Cardano community and outsiders.
 
 ## What you faced
 
