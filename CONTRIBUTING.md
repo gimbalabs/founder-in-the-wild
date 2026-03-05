@@ -57,7 +57,7 @@ Name your images:
 `buenos-aires-builderfest-image-1`
 
 To add images to your dispatch, use the .md syntax:
-![Alt text for image](images/your-foldername/your-image-filename.png)
+![Alt text for image](../images/your-foldername/your-image-filename.png)
 
 ## How to submit
 
